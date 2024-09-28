@@ -7,3 +7,10 @@
 .main {
     font-size: 48px;
 }
+
+.text {
+    color:gray;
+    font-size: 18px;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+}
