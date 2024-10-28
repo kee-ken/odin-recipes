@@ -24,3 +24,8 @@ li {
 li sup, sub {
     font-size: 12px;
 }
+
+.description {
+    margin-left: 16px;
+    margin-right: 16px;
+}
