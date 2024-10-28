@@ -20,3 +20,7 @@
 li {
     margin: 4px;
 }
+
+li sup, sub {
+    font-size: 12px;
+}
